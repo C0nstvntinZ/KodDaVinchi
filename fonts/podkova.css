@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'Podkova';
+    src: local('Podkova Regular'), local('Podkova-Regular'), url('Podkovaregular.woff2') format('woff2'), url('Podkovaregular.woff') format('woff'), url('Podkovaregular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Podkova';
+    src: local('Podkova SemiBold'), local('Podkova-SemiBold'), url('Podkovasemibold.woff2') format('woff2'), url('Podkovasemibold.woff') format('woff'), url('Podkovasemibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Podkova';
+    src: local('Podkova ExtraBold'), local('Podkova-ExtraBold'), url('Podkovaextrabold.woff2') format('woff2'), url('Podkovaextrabold.woff') format('woff'), url('Podkovaextrabold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Podkova';
+    src: local('Podkova Medium'), local('Podkova-Medium'), url('Podkovamedium.woff2') format('woff2'), url('Podkovamedium.woff') format('woff'), url('Podkovamedium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Podkova';
+    src: local('Podkova Bold'), local('Podkova-Bold'), url('Podkovabold.woff2') format('woff2'), url('Podkovabold.woff') format('woff'), url('Podkovabold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
